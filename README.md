@@ -14,4 +14,4 @@ Move your MP3 file to the project root folder and rename it to audio.mp3<br />
 
 python main.py<br />
 
-In a few minutes you will receive an .srt file.\
+In a few minutes you will receive an .srt file.
